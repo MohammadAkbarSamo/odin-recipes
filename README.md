@@ -1,2 +1,3 @@
 # odin-recipes
-first project tp upload
+ first project to upload
+ this will showcase basic html and focus on absolute and relative links along with images, lists and paragraphing.
